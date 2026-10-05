@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-04",
+  "header": "Market consensus \u00b7 Eagles-Rams",
+  "games": [
+    "LAR @ PHI"
+  ],
+  "mode": "ON_DEMAND",
+  "picks": [
+    {
+      "player": "Zach Ertz",
+      "stat": "Receptions",
+      "line": 2.5,
+      "side": "More",
+      "category": "Rock Solid",
+      "grade": "MISS",
+      "conf": 69
+    },
+    {
+      "player": "Kyren Williams",
+      "stat": "Rushing Attempts",
+      "line": 13.5,
+      "side": "More",
+      "category": "Rock Solid",
+      "grade": "HIT",
+      "conf": 65
+    },
+    {
+      "player": "Puka Nacua",
+      "stat": "Receiving Yards",
+      "line": 73.5,
+      "side": "More",
+      "category": "Rock Solid",
+      "grade": "HIT",
+      "conf": 65
+    },
+    {
+      "player": "Dontayvion Wicks",
+      "stat": "Receiving Yards",
+      "line": 56.5,
+      "side": "More",
+      "category": "Rock Solid",
+      "grade": "MISS",
+      "conf": 64
+    }
+  ]
+}

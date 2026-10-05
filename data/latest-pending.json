@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-04",
+  "header": "Market consensus \u00b7 SNF \u00b7 Slip 2",
+  "games": [
+    "DET @ CAR"
+  ],
+  "mode": "ON_DEMAND",
+  "picks": [
+    {
+      "player": "Bryce Young",
+      "stat": "Passing Attempts",
+      "line": 35.5,
+      "side": "More",
+      "category": "Lock",
+      "grade": "PENDING",
+      "conf": 85
+    },
+    {
+      "player": "Amon-Ra St. Brown",
+      "stat": "Receiving Yards",
+      "line": 76.5,
+      "side": "More",
+      "category": "Lock",
+      "grade": "PENDING",
+      "conf": 74
+    },
+    {
+      "player": "Darren Waller",
+      "stat": "Receiving Yards",
+      "line": 28.5,
+      "side": "More",
+      "category": "Rock Solid",
+      "grade": "PENDING",
+      "conf": 69
+    },
+    {
+      "player": "Sam LaPorta",
+      "stat": "Receiving Yards",
+      "line": 46.5,
+      "side": "More",
+      "category": "Rock Solid",
+      "grade": "PENDING",
+      "conf": 65
+    }
+  ]
+}
